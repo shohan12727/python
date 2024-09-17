@@ -1,0 +1,23 @@
+lucky_number=[4,2,45,65,95,105]
+
+friends=["shohan","rahul","saikot","ronaldo","oscar"]
+#          0         1       2        3         4
+print(friends[1])
+
+print(friends[2:3])
+
+friends.extend(lucky_number)
+print(friends)
+
+#friends.append(s. alam)
+#print(friends)
+#eikhane s. alam add hoye jabe 
+
+#friends.insert(1,"kally")
+#print(friends)
+#1 nong jaiga te kally add hoye jabe 
+
+#for removing 
+#friends.remove("ronaldo")
+
+
